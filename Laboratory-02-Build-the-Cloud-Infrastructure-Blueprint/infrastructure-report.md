@@ -8,6 +8,7 @@
 
 cat /etc/os-release
 
+### Findings 
 Operating System: Ubuntu 24.04.4 LTS
 Version Codename: Noble Numbat
 Version ID: 24.04
