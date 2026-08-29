@@ -34,20 +34,3 @@ I would recommend **Microsoft Azure** because it integrates closely with Microso
 ### 4. What similarities did you observe among the three cloud providers?
 
 All three cloud providers offer the same major categories of infrastructure services, including compute, storage, networking, and identity and access management. They also provide scalable and managed resources that allow organizations to run applications without having to purchase and maintain all of the underlying physical infrastructure themselves. [1][2][3]
-
----
-
-
-## References
-
-[1] Amazon Web Services. *Overview of Amazon Web Services*. AWS Documentation.
-
-[2] Microsoft. *Azure Documentation*. Microsoft Learn.
-
-[3] Google Cloud. *Google Cloud Documentation*. Google Cloud.
-
-[4] Microsoft. *Azure Integration with Microsoft 365*. Microsoft Learn.
-
-[5] Google Cloud. *Vertex AI Documentation*. Google Cloud.
-
-[6] Google Cloud. *Google Kubernetes Engine*. Google Cloud Documentation.
