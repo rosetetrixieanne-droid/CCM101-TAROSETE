@@ -1,6 +1,6 @@
 # Cloud Provider Comparison
 
-## Checkpoint 4 - Research the Major Cloud Providers
+## Research the Major Cloud Providers
 
 Cloud providers offer similar infrastructure services, but each provider uses different names and technologies for these services. This comparison focuses on four important infrastructure components: compute, storage, networking, and identity and access management (IAM).
 
