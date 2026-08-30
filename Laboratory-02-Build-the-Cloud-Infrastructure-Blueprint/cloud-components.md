@@ -1,6 +1,6 @@
 # Cloud Infrastructure Components
 
-## Checkpoint 3 - Identify Cloud Infrastructure Components
+##  Identify Cloud Infrastructure Components
 
 ## 1. Compute Resources
 
