@@ -3,7 +3,7 @@
 ## Checkpoint 2 - Investigate the Cloud Server
 
 ## Operating System
-
+|---|
 | Operating System: Ubuntu 24.04.4 LTS |
 | Version Codename: Noble Numbat | 
 | Version ID: 24.04 |
