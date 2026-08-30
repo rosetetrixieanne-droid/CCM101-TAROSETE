@@ -72,12 +72,13 @@ Mounted on: /
 df -h
 
 ### Findings
-File System | Size | Used | Available | Use | Mounted On |
-tmpfs | 191M | 996K | 190M | 1% | /run | 
-/dev/vda1 | 19G | 5.4G | 13G | 30% | / |
-tmpfs | 952M | 84K | 952M | 1% | /dev/shm |
-/dev/vda16 | 881M | 117M | 703M | 15% | /boot | 
-/dev/vda15 | 105M | 6.2M | 99M | 6% | /boot/efi | 
+| File System | Size | Used | Available | Use | Mounted On |
+|---|---|---|---|---|---|
+| tmpfs | 191M | 996K | 190M | 1% | /run | 
+| /dev/vda1 | 19G | 5.4G | 13G | 30% | / |
+| tmpfs | 952M | 84K | 952M | 1% | /dev/shm |
+| /dev/vda16 | 881M | 117M | 703M | 15% | /boot | 
+| /dev/vda15 | 105M | 6.2M | 99M | 6% | /boot/efi | 
 
 ## Hostname 
 
