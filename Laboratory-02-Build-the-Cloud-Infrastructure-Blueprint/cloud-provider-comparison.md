@@ -8,10 +8,10 @@ Cloud providers offer similar infrastructure services, but each provider uses di
 
 | Infrastructure Component | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
-| **Compute** | **Amazon EC2 (Elastic Compute Cloud)** - Provides scalable virtual servers that can be used to run applications and workloads. | **Azure Virtual Machines** - Provides scalable virtual machines that give users control over their computing environment. | **Compute Engine** - Provides scalable virtual machines and bare-metal instances for running workloads. |
-| **Storage** | **Amazon S3 (Simple Storage Service)** - Provides scalable object storage for storing and protecting data. | **Azure Storage / Blob Storage** - Provides scalable storage for objects, files, disks, queues, and tables. | **Cloud Storage** - Provides scalable and managed object storage using buckets. |
-| **Networking** | **Amazon VPC (Virtual Private Cloud)** - Provides an isolated virtual network where AWS resources can communicate securely. | **Azure Virtual Network (VNet)** - Provides private networking for Azure resources such as virtual machines and allows communication with the internet and on-premises networks. | **Virtual Private Cloud (VPC)** - Provides global, scalable, and flexible networking for Google Cloud resources such as Compute Engine and GKE. |
-| **Identity and Access Management (IAM)** | **AWS IAM** - Controls who can access AWS resources and what actions they are allowed to perform. | **Microsoft Entra ID / Azure RBAC** - Manages identities and controls access to Azure resources through roles and permissions. | **Google Cloud IAM** - Controls which users, groups, and service accounts can access Google Cloud resources and what permissions they have. |
+| **Compute** | **Amazon EC2 (Elastic Compute Cloud)** | **Azure Virtual Machines** | **Compute Engine**  |
+| **Storage** | **Amazon S3 (Simple Storage Service)** | **Azure Storage / Blob Storage** | **Cloud Storage** |
+| **Networking** | **Amazon VPC (Virtual Private Cloud)** | **Azure Virtual Network (VNet)** | **Virtual Private Cloud (VPC)** |
+| **Identity and Access Management (IAM)** | **AWS IAM**  | **Microsoft Entra ID / Azure RBAC** | **Google Cloud IAM** |
 
 ---
 
