@@ -1,6 +1,6 @@
 # Infrastructure Report
 
-## Checkpoint 2 - Investigate the Cloud Server
+## Investigate the Cloud Server
 
 ## Operating System
 
