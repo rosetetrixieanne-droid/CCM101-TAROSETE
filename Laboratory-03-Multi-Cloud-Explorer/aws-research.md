@@ -82,6 +82,11 @@ AWS Identity and Access Management (IAM) controls access to AWS resources by man
 
 AWS can be used for web applications, mobile applications, databases, backup systems, data analytics, e-commerce platforms, and enterprise applications.
 
+## Screenshot
+
+<img width="1919" height="814" alt="aws-homepage" src="https://github.com/user-attachments/assets/b3e66525-c47b-4370-bfdf-5b257c4697d5" />
+
+
 ## References
 https://docs.aws.amazon.com/
 
