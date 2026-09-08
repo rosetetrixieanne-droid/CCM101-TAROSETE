@@ -40,6 +40,11 @@ Microsoft Entra ID provides identity and access management for users, applicatio
 
 Azure is commonly used for enterprise applications, Microsoft-based systems, Windows Server workloads, hybrid cloud environments, databases, business applications, and artificial intelligence.
 
+## Screenshot
+
+<img width="1899" height="908" alt="azure-homepage" src="https://github.com/user-attachments/assets/5629a9d0-e67f-4fe7-a2b9-dac2d68bee32" />
+
+
 ## References
 https://azure.microsoft.com/
 
