@@ -40,6 +40,11 @@ Cloud Identity and Access Management controls access to Google Cloud resources t
 
 Google Cloud can be used for artificial intelligence, machine learning, data analytics, Kubernetes deployments, web applications, databases, and large-scale enterprise applications.
 
+## Screenshot 
+
+<img width="1919" height="862" alt="gcp-homepage" src="https://github.com/user-attachments/assets/311f815c-705e-4030-80db-ab43d707d760" />
+
+
 ## References 
 
 https://cloud.google.com/
