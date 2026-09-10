@@ -16,6 +16,9 @@ This laboratory activity introduced the basic concepts of cloud-native engineeri
 
 ## Docker Commands Executed
 
+## Checkpoint 3
+
+
 ### Check Docker Installation
 
 ```bash
