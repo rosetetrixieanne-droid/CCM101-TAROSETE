@@ -31,6 +31,10 @@ docker --version
 docker info
 ```
 
+
+## Checkpoint 4
+
+
 ### Pull Nginx
 
 ```bash
