@@ -47,7 +47,7 @@ docker pull nginx
 docker run -d --name nginx-server -p 8080:80 nginx
 ```
 
-### List Running Containers
+### Check Running Containers 
 
 ```bash
 docker ps
@@ -59,16 +59,24 @@ docker ps
 curl http://localhost:8080
 ```
 
+## Checkpoint 5
+
+### List Running Containers
+
+```bash
+docker ps
+```
+
 ### Stop Container
 
 ```bash
 docker stop nginx-server
 ```
 
-### View All Containers
+### Verify it is stopped
 
 ```bash
-docker ps -a
+docker ps
 ```
 
 ### Remove Container
@@ -76,6 +84,13 @@ docker ps -a
 ```bash
 docker rm nginx-server
 ```
+
+### Final Verification
+
+```bash
+docker ps -a
+```
+
 
 ## Skills Learned
 
