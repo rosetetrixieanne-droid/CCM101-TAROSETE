@@ -28,7 +28,7 @@ dependencies, while operations teams can deploy the same container in
 different environments. This supports the DevOps approach because it makes
 deployment more consistent and easier to manage.
 
-Finally, my GitHub portfolio is becoming more organized as I continue
+My GitHub portfolio is becoming more organized as I continue
 adding new laboratory activities. Each laboratory contains documentation,
 screenshots, technical commands, and reflections. This makes my repository
 a useful record of the cloud computing skills I have learned throughout
