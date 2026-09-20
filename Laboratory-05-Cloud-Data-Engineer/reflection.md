@@ -1,4 +1,4 @@
-# Mission Reflection
+# Reflection
 
 This laboratory helped me understand why object storage is useful for applications that handle a large amount of files such as photos. Object storage is better suited for millions of photos because it is designed for storing unstructured data and can scale as the amount of data increases. Unlike a traditional block storage hard drive, object storage organizes files as objects with their own data and metadata. This makes it useful for applications that need to store and retrieve many images.
 
