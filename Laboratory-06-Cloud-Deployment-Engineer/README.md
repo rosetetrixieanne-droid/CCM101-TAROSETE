@@ -30,6 +30,3 @@ Additional Git commands were used to save the laboratory documentation to the ex
 ## Skills Learned
 
 Through this laboratory, I learned how Docker Compose can be used to deploy multiple related containers. I also learned how environment variables allow the Nextcloud application to connect to the MariaDB database. The activity improved my understanding of multi-tier architecture, container networking, YAML configuration, and basic cloud deployment practices.
-
-
-The `screenshots/` folder contains evidence of the deployment, Nextcloud web interface, and container teardown.
