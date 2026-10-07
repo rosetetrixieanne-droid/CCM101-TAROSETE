@@ -27,9 +27,14 @@ docker stats
 ## Client Website Metrics
 
 At the time of the screenshot, the client-website container showed:
-
+ ```bash
 CPU Usage: [ACTUAL CPU %]
+```
+```bash
 Memory Usage: [ACTUAL MEMORY USAGE]
+```
+```bash
 Network I/O: [OPTIONAL - ACTUAL VALUE]
+```
 
 The CPU percentage indicates how much CPU processing the container was using, while memory usage shows the amount of RAM consumed by the container.
