@@ -8,6 +8,8 @@ The application logs were retrieved using:
 docker logs client-website
 ```
 
+## HTTP 404 Error
+
 ```text
 172.17.0.1 - - [07/Oct/2026:01:39:03 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
 ```
