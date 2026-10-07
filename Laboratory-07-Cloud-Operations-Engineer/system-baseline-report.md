@@ -33,6 +33,6 @@ top
 
 The top command provides real-time information about CPU utilization, memory usage, running processes, and system load.
 
-Why Disk Space Is Important
+### Why Disk Space Is Important
 
 Checking disk space before a massive traffic surge is important because insufficient storage can prevent applications from writing logs, temporary files, and other data, which may cause services to fail.
