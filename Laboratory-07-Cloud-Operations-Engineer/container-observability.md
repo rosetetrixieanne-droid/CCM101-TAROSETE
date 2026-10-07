@@ -15,3 +15,21 @@ docker logs client-website
 ```
 
 Application logs are vital for troubleshooting because they show what requests are being made and whether they succeed or fail. They help developers identify errors such as missing pages, incorrect configurations, and other problems so they can quickly determine what needs to be fixed.
+
+## Real-Time Container Metrics
+
+The Docker container was monitored using:
+
+```bash
+docker stats
+```
+
+## Client Website Metrics
+
+At the time of the screenshot, the client-website container showed:
+
+CPU Usage: [ACTUAL CPU %]
+Memory Usage: [ACTUAL MEMORY USAGE]
+Network I/O: [OPTIONAL - ACTUAL VALUE]
+
+The CPU percentage indicates how much CPU processing the container was using, while memory usage shows the amount of RAM consumed by the container.
