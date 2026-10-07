@@ -1,1 +1,15 @@
+# Container Observability
 
+## Application Logs
+
+The application logs were retrieved using:
+
+```bash
+docker logs client-website
+```
+
+```text
+172.17.0.1 - - [07/Oct/2026:01:39:03 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
+```
+
+Application logs are vital for troubleshooting because they show what requests are being made and whether they succeed or fail. They help developers identify errors such as missing pages, incorrect configurations, and other problems so they can quickly determine what needs to be fixed.
