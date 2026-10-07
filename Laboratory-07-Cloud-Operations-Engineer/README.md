@@ -68,3 +68,16 @@ docker stats
 Through this laboratory, I learned how to establish a basic Linux server health baseline using standard command-line tools. I also learned how to deploy and test an Nginx Docker container, generate HTTP traffic, intentionally produce an HTTP 404 error, and inspect application logs.
 
 I also practiced container observability by using docker stats to monitor CPU and memory consumption in real time. These skills are important for Cloud Operations Engineers because they help identify resource problems and application issues before they affect users.
+
+## Evidences
+
+Screenshots are stored in the screenshots folder:
+
+memory-check.png
+disk-check.png
+top.png
+install-nginx.png
+simulation1.png
+simulation2.png
+docker-logs.png
+container-metrics.png
